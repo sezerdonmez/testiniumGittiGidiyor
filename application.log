@@ -1,0 +1,539 @@
+2021-04-17 13:38:42 ERROR MainClass:24 - Test has started
+2021-04-17 13:38:48 INFO  MainClass:15 - Test page URL: https://www.gittigidiyor.com
+2021-04-17 13:38:54 INFO  MainClass:24 - Main page has opened
+2021-04-17 13:38:58 INFO  MainClass:45 - 3 seconds slept
+2021-04-17 13:39:03 INFO  MainClass:78 - Test finished
+2021-04-17 14:00:17 INFO  MainClass:24 - Test has started
+2021-04-17 14:00:23 INFO  MainClass:15 - Test page URL: https://www.gittigidiyor.com
+2021-04-17 14:00:31 INFO  MainClass:24 - Main page has opened
+2021-04-17 14:00:35 INFO  MainClass:45 - 3 seconds slept
+2021-04-17 14:01:21 INFO  MainClass:24 - Test has started
+2021-04-17 14:01:27 INFO  MainClass:15 - Test page URL: https://www.gittigidiyor.com
+2021-04-17 14:01:38 INFO  MainClass:24 - Test has started
+2021-04-17 14:01:43 INFO  MainClass:15 - Test page URL: https://www.gittigidiyor.com
+2021-04-17 14:01:52 INFO  MainClass:24 - Main page has opened
+2021-04-17 14:01:56 INFO  MainClass:45 - 3 seconds slept
+2021-04-17 14:02:00 INFO  MainClass:45 - 1 seconds slept
+2021-04-17 14:02:04 INFO  MainClass:45 - Login process valid
+2021-04-17 14:02:16 INFO  MainClass:36 - Titles equal, Second product page opened
+2021-04-17 14:02:16 INFO  MainClass:38 - java.util.Random@77b14724secildi
+2021-04-17 14:02:24 INFO  MainClass:45 - 3 seconds slept
+2021-04-17 14:02:27 INFO  MainClass:29 - Actual price: 4.149,00 TL
+2021-04-17 14:02:27 INFO  MainClass:45 - Prices equal (Basket and Product Pages)
+2021-04-17 14:02:30 INFO  MainClass:45 - 2 seconds slept
+2021-04-17 14:02:32 INFO  MainClass:45 - 2 seconds slept
+2021-04-17 14:02:32 INFO  MainClass:68 - Basket is empty
+2021-04-17 14:02:34 INFO  MainClass:80 - Test finished
+2021-04-17 14:04:29 INFO  MainClass:24 - Test has started
+2021-04-17 14:04:35 INFO  MainClass:15 - Test page URL: https://www.gittigidiyor.com
+2021-04-17 14:04:42 INFO  MainClass:24 - Main page has opened
+2021-04-17 14:04:46 INFO  MainClass:45 - 3 seconds slept
+2021-04-17 14:04:54 INFO  MainClass:45 - 1 seconds slept
+2021-04-17 14:04:58 INFO  MainClass:45 - Login process valid
+2021-04-17 14:05:10 INFO  MainClass:36 - Titles equal, Second product page opened
+2021-04-17 14:05:10 INFO  MainClass:38 - java.util.Random@1b73be9f secildi
+2021-04-17 14:05:19 INFO  MainClass:45 - 3 seconds slept
+2021-04-17 14:05:21 INFO  MainClass:29 - Actual price: 4.149,00 TL
+2021-04-17 14:05:21 INFO  MainClass:45 - Prices equal (Basket and Product Pages)
+2021-04-17 14:05:23 INFO  MainClass:45 - 2 seconds slept
+2021-04-17 14:07:57 INFO  MainClass:24 - Test has started
+2021-04-17 14:08:03 INFO  MainClass:15 - Test page URL: https://www.gittigidiyor.com
+2021-04-17 14:08:12 INFO  MainClass:24 - Main page has opened
+2021-04-17 14:08:15 INFO  MainClass:45 - 3 seconds slept
+2021-04-17 14:08:20 INFO  MainClass:45 - 1 seconds slept
+2021-04-17 14:08:24 INFO  MainClass:45 - Login process valid
+2021-04-17 14:08:34 INFO  MainClass:36 - Titles equal, Second product page opened
+2021-04-17 14:08:35 INFO  MainClass:38 - java.util.Random@5ef6ae06 secildi
+2021-04-17 14:09:04 INFO  MainClass:80 - Test finished
+2021-04-17 14:26:52 INFO  MainClass:24 - Test has started
+2021-04-17 14:26:58 INFO  MainClass:15 - Test page URL: https://www.gittigidiyor.com
+2021-04-17 14:27:21 INFO  MainClass:24 - Main page has opened
+2021-04-17 14:27:25 INFO  MainClass:45 - 3 seconds slept
+2021-04-17 14:27:39 INFO  MainClass:45 - 1 seconds slept
+2021-04-17 14:27:44 INFO  MainClass:45 - Login process valid
+2021-04-17 14:27:57 INFO  MainClass:36 - Titles equal, Second product page opened
+2021-04-17 14:27:57 INFO  MainClass:38 - java.util.Random@5d9b7a8a secildi
+2021-04-17 14:28:06 INFO  MainClass:45 - 3 seconds slept
+2021-04-17 14:28:11 INFO  MainClass:29 - Actual price: 5.568,00 TL
+2021-04-17 14:28:11 INFO  MainClass:45 - Prices equal (Basket and Product Pages)
+2021-04-17 14:28:28 INFO  MainClass:80 - Test finished
+2021-04-17 14:39:53 INFO  MainClass:21 - Test has started
+2021-04-17 14:40:00 INFO  MainClass:15 - Test page URL: https://www.gittigidiyor.com
+2021-04-17 14:40:07 INFO  MainClass:24 - Main page has opened
+2021-04-17 14:40:11 INFO  MainClass:45 - 3 seconds slept
+2021-04-17 14:40:16 INFO  MainClass:45 - 1 seconds slept
+2021-04-17 14:40:20 INFO  MainClass:45 - Login process valid
+2021-04-17 14:40:34 INFO  MainClass:35 - Titles equal, Second product page opened
+2021-04-17 14:40:34 INFO  MainClass:38 - java.util.Random@77b14724 secildi
+2021-04-17 14:40:43 INFO  MainClass:45 - 3 seconds slept
+2021-04-17 14:40:46 INFO  MainClass:23 - Actual price: 19.849,00 TL
+2021-04-17 14:40:46 INFO  MainClass:34 - Prices different (Basket and Product Pages)
+2021-04-17 14:40:56 INFO  MainClass:79 - Test finished
+2021-04-17 14:41:51 INFO  MainClass:21 - Test has started
+2021-04-17 14:41:57 INFO  MainClass:15 - Test page URL: https://www.gittigidiyor.com
+2021-04-17 14:42:06 INFO  MainClass:24 - Main page has opened
+2021-04-17 14:42:10 INFO  MainClass:45 - 3 seconds slept
+2021-04-17 14:42:15 INFO  MainClass:45 - 1 seconds slept
+2021-04-17 14:42:19 INFO  MainClass:45 - Login process valid
+2021-04-17 14:42:33 INFO  MainClass:35 - Titles equal, Second product page opened
+2021-04-17 14:42:33 INFO  MainClass:38 - java.util.Random@584f54e6 secildi
+2021-04-17 14:42:40 INFO  MainClass:45 - 3 seconds slept
+2021-04-17 14:42:46 INFO  MainClass:23 - Actual price: 2.301,98 TL
+2021-04-17 14:42:46 INFO  MainClass:34 - Prices different (Basket and Product Pages)
+2021-04-17 14:42:48 INFO  MainClass:45 - 2 seconds slept
+2021-04-17 14:42:50 INFO  MainClass:45 - 2 seconds slept
+2021-04-17 14:42:50 INFO  MainClass:56 - Basket is empty
+2021-04-17 14:42:53 INFO  MainClass:79 - Test finished
+2021-04-17 15:14:42 INFO  MainClass:21 - Test has started
+2021-04-17 15:14:47 INFO  MainClass:15 - Test page URL: https://www.gittigidiyor.com
+2021-04-17 15:14:54 INFO  MainClass:24 - Main page has opened
+2021-04-17 15:14:58 INFO  MainClass:46 - 3 seconds slept
+2021-04-17 15:15:01 INFO  MainClass:46 - 1 seconds slept
+2021-04-17 15:15:05 INFO  MainClass:45 - Login process valid
+2021-04-17 15:15:15 INFO  MainClass:35 - Titles equal, Second product page opened
+2021-04-17 15:15:15 INFO  MainClass:39 - java.util.Random@2cc44ad secildi
+2021-04-17 15:15:21 INFO  MainClass:46 - 3 seconds slept
+2021-04-17 15:15:22 INFO  MainClass:23 - Actual price: 3.440,54 TL
+2021-04-17 15:15:22 INFO  MainClass:31 - Prices equal (Basket and Product Pages)
+2021-04-17 15:15:24 INFO  MainClass:46 - 2 seconds slept
+2021-04-17 15:15:26 INFO  MainClass:46 - 2 seconds slept
+2021-04-17 15:15:26 INFO  MainClass:56 - Basket is empty
+2021-04-17 15:15:28 INFO  MainClass:79 - Test finished
+2021-04-17 15:40:11 INFO  MainClass:21 - Test has started
+2021-04-17 15:40:17 INFO  MainClass:15 - Test page URL: https://www.gittigidiyor.com
+2021-04-17 15:40:24 INFO  MainClass:24 - Main page has opened
+2021-04-17 15:40:28 INFO  MainClass:46 - 3 seconds slept
+2021-04-17 15:40:34 INFO  MainClass:46 - 1 seconds slept
+2021-04-17 15:40:38 INFO  MainClass:45 - Login process valid
+2021-04-17 15:40:49 INFO  MainClass:35 - Titles equal, Second product page opened
+2021-04-17 15:40:49 INFO  MainClass:39 - java.util.Random@7b84fcf8 secildi
+2021-04-17 15:40:57 INFO  MainClass:46 - 3 seconds slept
+2021-04-17 15:40:58 INFO  MainClass:23 - Actual price: 4.266,12 TL
+2021-04-17 15:40:58 INFO  MainClass:34 - Prices different (Basket and Product Pages)
+2021-04-17 15:41:00 INFO  MainClass:46 - 2 seconds slept
+2021-04-17 15:41:02 INFO  MainClass:46 - 2 seconds slept
+2021-04-17 15:41:02 INFO  MainClass:56 - Basket is empty
+2021-04-17 15:41:05 INFO  MainClass:79 - Test finished
+2021-04-17 15:48:15 INFO  MainClass:21 - Test has started
+2021-04-17 15:48:22 INFO  MainClass:15 - Test page URL: https://www.gittigidiyor.com
+2021-04-17 15:48:32 INFO  MainClass:24 - Main page has opened
+2021-04-17 15:49:04 INFO  MainClass:79 - Test finished
+2021-04-17 16:42:51 INFO  MainClass:21 - Test has started
+2021-04-17 16:42:57 INFO  MainClass:15 - Test page URL: https://www.gittigidiyor.com
+2021-04-17 16:43:06 INFO  MainClass:24 - Main page has opened
+2021-04-17 16:43:10 INFO  MainClass:46 - 3 seconds slept
+2021-04-17 16:43:14 INFO  MainClass:46 - 1 seconds slept
+2021-04-17 16:43:17 INFO  MainClass:45 - Login process valid
+2021-04-17 16:43:25 INFO  MainClass:35 - Titles equal, Second product page opened
+2021-04-17 16:43:25 INFO  MainClass:39 - java.util.Random@5d9b7a8a secildi
+2021-04-17 16:43:38 INFO  MainClass:46 - 3 seconds slept
+2021-04-17 16:43:39 INFO  MainClass:23 - Actual price: 3.809,00 TL
+2021-04-17 16:43:39 INFO  MainClass:31 - Prices equal (Basket and Product Pages)
+2021-04-17 16:43:41 INFO  MainClass:46 - 2 seconds slept
+2021-04-17 16:43:44 INFO  MainClass:46 - 2 seconds slept
+2021-04-17 16:43:44 INFO  MainClass:56 - Basket is empty
+2021-04-17 16:43:46 INFO  MainClass:79 - Test finished
+2021-04-17 17:02:05 INFO  MainClass:21 - Test has started
+2021-04-17 17:02:11 INFO  MainClass:15 - Test page URL: https://www.gittigidiyor.com
+2021-04-17 17:02:24 INFO  MainClass:24 - Main page has opened
+2021-04-17 17:02:27 INFO  MainClass:46 - 3 seconds slept
+2021-04-17 17:02:31 INFO  MainClass:46 - 1 seconds slept
+2021-04-17 17:02:34 INFO  MainClass:45 - Login process valid
+2021-04-17 17:02:42 INFO  MainClass:35 - Titles equal, Second product page opened
+2021-04-17 17:02:42 INFO  MainClass:39 - java.util.Random@366ac49b secildi
+2021-04-17 17:02:49 INFO  MainClass:46 - 3 seconds slept
+2021-04-17 17:02:50 INFO  MainClass:23 - Actual price: 3.311,04 TL
+2021-04-17 17:02:50 INFO  MainClass:31 - Prices equal (Basket and Product Pages)
+2021-04-17 17:02:52 INFO  MainClass:46 - 2 seconds slept
+2021-04-17 17:02:54 INFO  MainClass:46 - 2 seconds slept
+2021-04-17 17:02:54 INFO  MainClass:56 - Basket is empty
+2021-04-17 17:02:56 INFO  MainClass:79 - Test finished
+2021-04-17 17:18:04 INFO  MainClass:21 - Test has started
+2021-04-17 17:18:10 INFO  MainClass:15 - Test page URL: https://www.gittigidiyor.com
+2021-04-17 17:18:21 INFO  MainClass:24 - Main page has opened
+2021-04-17 17:18:25 INFO  MainClass:46 - 3 seconds slept
+2021-04-17 17:18:30 INFO  MainClass:46 - 1 seconds slept
+2021-04-17 17:18:34 INFO  MainClass:45 - Login process valid
+2021-04-17 17:18:45 INFO  MainClass:35 - Titles equal, Second product page opened
+2021-04-17 17:18:45 INFO  MainClass:39 - java.util.Random@f80945f secildi
+2021-04-17 17:18:52 INFO  MainClass:46 - 3 seconds slept
+2021-04-17 17:18:53 INFO  MainClass:23 - Actual price: 5.849,00 TL
+2021-04-17 17:18:53 INFO  MainClass:31 - Prices equal (Basket and Product Pages)
+2021-04-17 17:18:56 INFO  MainClass:46 - 2 seconds slept
+2021-04-17 17:18:58 INFO  MainClass:46 - 2 seconds slept
+2021-04-17 17:18:58 INFO  MainClass:56 - Basket is empty
+2021-04-17 17:19:00 INFO  MainClass:79 - Test finished
+2021-04-18 09:18:42 INFO  MainClass:21 - Test has started
+2021-04-18 09:19:00 INFO  MainClass:18 - Test page URL: https://www.gittigidiyor.com
+2021-04-18 09:19:09 INFO  MainClass:27 - Main page has opened
+2021-04-18 09:19:12 INFO  MainClass:46 - 3 seconds slept
+2021-04-18 09:19:22 INFO  MainClass:46 - 1 seconds slept
+2021-04-18 09:19:26 INFO  MainClass:48 - Login process valid
+2021-04-18 09:19:39 INFO  MainClass:35 - Titles equal, Second product page opened
+2021-04-18 09:19:39 INFO  MainClass:39 - java.util.Random@22ffa91a secildi
+2021-04-18 09:19:47 INFO  MainClass:46 - 3 seconds slept
+2021-04-18 09:19:49 INFO  MainClass:23 - Actual price: 3.387,84 TL
+2021-04-18 09:19:49 INFO  MainClass:31 - Prices equal (Basket and Product Pages)
+2021-04-18 09:19:51 INFO  MainClass:46 - 2 seconds slept
+2021-04-18 09:19:53 INFO  MainClass:46 - 2 seconds slept
+2021-04-18 09:19:53 INFO  MainClass:56 - Basket is empty
+2021-04-18 09:19:55 INFO  MainClass:79 - Test finished
+2021-04-18 09:49:45 INFO  MainClass:21 - Test has started
+2021-04-18 09:49:50 INFO  MainClass:19 - Test page URL: https://www.gittigidiyor.com
+2021-04-18 09:49:57 INFO  MainClass:28 - Main page has opened
+2021-04-18 09:50:01 INFO  MainClass:46 - 3 seconds slept
+2021-04-18 09:50:05 INFO  MainClass:46 - 1 seconds slept
+2021-04-18 09:50:09 INFO  MainClass:50 - Login process valid
+2021-04-18 09:50:18 INFO  MainClass:38 - Titles equal, Second product page opened
+2021-04-18 09:50:18 INFO  MainClass:39 - java.util.Random@10b9db7b has chosen by randomly
+2021-04-18 09:50:24 INFO  MainClass:46 - 3 seconds slept
+2021-04-18 09:50:26 INFO  MainClass:26 - Actual price: 6.112,00 TL
+2021-04-18 09:50:26 INFO  MainClass:34 - Prices equal (Basket and Product Pages)
+2021-04-18 09:50:28 INFO  MainClass:46 - 2 seconds slept
+2021-04-18 09:50:30 INFO  MainClass:46 - 2 seconds slept
+2021-04-18 09:50:30 INFO  MainClass:59 - Basket is empty
+2021-04-18 09:50:32 INFO  MainClass:81 - Test finished
+2021-04-18 09:51:33 INFO  MainClass:21 - Test has started
+2021-04-18 09:51:38 INFO  MainClass:19 - Test page URL: https://www.gittigidiyor.com
+2021-04-18 09:51:47 INFO  MainClass:28 - Main page has opened
+2021-04-18 09:51:50 INFO  MainClass:46 - 3 seconds slept
+2021-04-18 09:51:54 INFO  MainClass:46 - 1 seconds slept
+2021-04-18 09:51:58 INFO  MainClass:50 - Login process valid
+2021-04-18 09:52:06 INFO  MainClass:38 - Titles equal, Second product page opened
+2021-04-18 09:52:06 INFO  MainClass:39 - java.util.Random@232a7d73 has chosen by randomly
+2021-04-18 09:52:12 INFO  MainClass:46 - 3 seconds slept
+2021-04-18 09:52:14 INFO  MainClass:26 - Actual price: 3.191,04 TL
+2021-04-18 09:52:14 INFO  MainClass:34 - Prices equal (Basket and Product Pages)
+2021-04-18 09:52:17 INFO  MainClass:46 - 2 seconds slept
+2021-04-18 09:52:19 INFO  MainClass:46 - 2 seconds slept
+2021-04-18 09:52:19 INFO  MainClass:59 - Basket is empty
+2021-04-18 09:52:21 INFO  MainClass:81 - Test finished
+2021-04-18 10:18:27 INFO  MainClass:21 - Test has started
+2021-04-18 10:18:50 INFO  MainClass:19 - Test page URL: https://www.gittigidiyor.com
+2021-04-18 10:19:07 INFO  MainClass:28 - Main page has opened
+2021-04-18 10:19:10 INFO  MainClass:46 - 3 seconds slept
+2021-04-18 10:19:13 INFO  MainClass:46 - 1 seconds slept
+2021-04-18 10:19:23 INFO  MainClass:81 - Test finished
+2021-04-18 10:19:45 INFO  MainClass:21 - Test has started
+2021-04-18 10:19:50 INFO  MainClass:19 - Test page URL: https://www.gittigidiyor.com
+2021-04-18 10:19:57 INFO  MainClass:28 - Main page has opened
+2021-04-18 10:20:00 INFO  MainClass:46 - 3 seconds slept
+2021-04-18 10:20:04 INFO  MainClass:46 - 1 seconds slept
+2021-04-18 10:20:29 INFO  MainClass:81 - Test finished
+2021-04-18 10:20:37 INFO  MainClass:21 - Test has started
+2021-04-18 10:20:43 INFO  MainClass:19 - Test page URL: https://www.gittigidiyor.com
+2021-04-18 10:20:52 INFO  MainClass:28 - Main page has opened
+2021-04-18 10:20:55 INFO  MainClass:46 - 3 seconds slept
+2021-04-18 10:20:59 INFO  MainClass:46 - 1 seconds slept
+2021-04-18 10:21:03 INFO  MainClass:50 - Login process valid
+2021-04-18 10:21:16 INFO  MainClass:38 - Titles equal, Second product page opened
+2021-04-18 10:21:16 INFO  MainClass:39 - java.util.Random@6ad59d92 has chosen by randomly
+2021-04-18 10:21:24 INFO  MainClass:46 - 3 seconds slept
+2021-04-18 10:21:28 INFO  MainClass:26 - Actual price: 18.449,01 TL
+2021-04-18 10:21:28 INFO  MainClass:34 - Prices equal (Basket and Product Pages)
+2021-04-18 10:21:31 INFO  MainClass:46 - 2 seconds slept
+2021-04-18 10:21:33 INFO  MainClass:46 - 2 seconds slept
+2021-04-18 10:21:33 INFO  MainClass:59 - Basket is empty
+2021-04-18 10:21:35 INFO  MainClass:81 - Test finished
+2021-04-18 10:32:25 INFO  MainClass:21 - Test has started
+2021-04-18 10:32:32 INFO  MainClass:19 - Test page URL: https://www.gittigidiyor.com
+2021-04-18 10:32:40 INFO  MainClass:28 - Main page has opened
+2021-04-18 10:32:43 INFO  MainClass:49 - 3 seconds slept
+2021-04-18 10:32:47 INFO  MainClass:49 - 1 seconds slept
+2021-04-18 10:32:51 INFO  MainClass:50 - Login process valid
+2021-04-18 10:33:02 INFO  MainClass:82 - Test finished
+2021-04-18 10:33:13 INFO  MainClass:21 - Test has started
+2021-04-18 10:33:19 INFO  MainClass:19 - Test page URL: https://www.gittigidiyor.com
+2021-04-18 10:33:26 INFO  MainClass:28 - Main page has opened
+2021-04-18 10:33:29 INFO  MainClass:49 - 3 seconds slept
+2021-04-18 10:33:33 INFO  MainClass:49 - 1 seconds slept
+2021-04-18 10:33:37 INFO  MainClass:50 - Login process valid
+2021-04-18 10:33:46 INFO  MainClass:38 - Titles equal, Second product page opened
+2021-04-18 10:33:46 INFO  MainClass:42 - java.util.Random@63dd899 has chosen by randomly
+2021-04-18 10:33:52 INFO  MainClass:49 - 3 seconds slept
+2021-04-18 10:33:54 INFO  MainClass:25 - Actual price: 6.566,00 TL
+2021-04-18 10:33:54 INFO  MainClass:33 - Prices equal (Basket and Product Pages)
+2021-04-18 10:33:57 INFO  MainClass:49 - 2 seconds slept
+2021-04-18 10:33:59 INFO  MainClass:82 - Test finished
+2021-04-18 10:39:07 INFO  MainClass:21 - Test has started
+2021-04-18 10:39:13 INFO  MainClass:19 - Test page URL: https://www.gittigidiyor.com
+2021-04-18 10:39:22 INFO  MainClass:28 - Main page has opened
+2021-04-18 10:39:25 INFO  MainClass:49 - 3 seconds slept
+2021-04-18 10:39:32 INFO  MainClass:49 - 1 seconds slept
+2021-04-18 10:39:36 INFO  MainClass:50 - Login process valid
+2021-04-18 10:39:46 INFO  MainClass:38 - Titles equal, Second product page opened
+2021-04-18 10:39:47 INFO  MainClass:42 - java.util.Random@737a135b has chosen by randomly
+2021-04-18 10:39:54 INFO  MainClass:49 - 3 seconds slept
+2021-04-18 10:39:55 INFO  MainClass:25 - Actual price: 6.112,00 TL
+2021-04-18 10:39:55 INFO  MainClass:33 - Prices equal (Basket and Product Pages)
+2021-04-18 10:39:58 INFO  MainClass:49 - 2 seconds slept
+2021-04-18 10:39:58 ERROR MainClass:53 - Two products selecting failure
+2021-04-18 10:40:00 INFO  MainClass:49 - 2 seconds slept
+2021-04-18 10:40:00 INFO  MainClass:69 - Basket is empty
+2021-04-18 10:40:02 INFO  MainClass:82 - Test finished
+2021-04-18 10:41:02 INFO  MainClass:21 - Test has started
+2021-04-18 10:41:08 INFO  MainClass:19 - Test page URL: https://www.gittigidiyor.com
+2021-04-18 10:41:15 INFO  MainClass:28 - Main page has opened
+2021-04-18 10:41:18 INFO  MainClass:49 - 3 seconds slept
+2021-04-18 10:41:23 INFO  MainClass:49 - 1 seconds slept
+2021-04-18 10:41:28 INFO  MainClass:50 - Login process valid
+2021-04-18 10:41:39 INFO  MainClass:38 - Titles equal, Second product page opened
+2021-04-18 10:41:39 INFO  MainClass:42 - java.util.Random@4535b6d5 has chosen by randomly
+2021-04-18 10:41:46 INFO  MainClass:49 - 3 seconds slept
+2021-04-18 10:41:47 INFO  MainClass:25 - Actual price: 6.768,00 TL
+2021-04-18 10:41:47 INFO  MainClass:33 - Prices equal (Basket and Product Pages)
+2021-04-18 10:41:50 INFO  MainClass:49 - 2 seconds slept
+2021-04-18 10:41:50 INFO  MainClass:49 - twoProducts:                  1
+                 2
+                 3
+                 4
+                 5
+                 6
+                 7
+                 8
+                 9
+                10+
+      
+2021-04-18 10:41:50 ERROR MainClass:54 - Two products selecting failure
+2021-04-18 10:41:52 INFO  MainClass:49 - 2 seconds slept
+2021-04-18 10:41:52 INFO  MainClass:70 - Basket is empty
+2021-04-18 10:41:54 INFO  MainClass:82 - Test finished
+2021-04-18 10:49:51 INFO  MainClass:21 - Test has started
+2021-04-18 10:49:56 INFO  MainClass:19 - Test page URL: https://www.gittigidiyor.com
+2021-04-18 10:50:03 INFO  MainClass:28 - Main page has opened
+2021-04-18 10:50:07 INFO  MainClass:49 - 3 seconds slept
+2021-04-18 10:50:12 INFO  MainClass:49 - 1 seconds slept
+2021-04-18 10:50:16 INFO  MainClass:50 - Login process valid
+2021-04-18 10:50:27 INFO  MainClass:38 - Titles equal, Second product page opened
+2021-04-18 10:50:27 INFO  MainClass:42 - java.util.Random@5d8bafa9 has chosen by randomly
+2021-04-18 10:50:33 INFO  MainClass:49 - 3 seconds slept
+2021-04-18 10:50:35 INFO  MainClass:25 - Actual price: 6.920,00 TL
+2021-04-18 10:50:35 INFO  MainClass:33 - Prices equal (Basket and Product Pages)
+2021-04-18 10:50:37 INFO  MainClass:49 - 2 seconds slept
+2021-04-18 10:50:37 INFO  MainClass:50 - twoProducts: 
+2021-04-18 10:50:37 ERROR MainClass:55 - Two products selecting failure
+2021-04-18 10:50:39 INFO  MainClass:49 - 2 seconds slept
+2021-04-18 10:50:39 INFO  MainClass:71 - Basket is empty
+2021-04-18 10:50:41 INFO  MainClass:82 - Test finished
+2021-04-18 10:50:55 INFO  MainClass:21 - Test has started
+2021-04-18 10:51:01 INFO  MainClass:19 - Test page URL: https://www.gittigidiyor.com
+2021-04-18 10:51:09 INFO  MainClass:28 - Main page has opened
+2021-04-18 10:51:12 INFO  MainClass:49 - 3 seconds slept
+2021-04-18 10:51:17 INFO  MainClass:49 - 1 seconds slept
+2021-04-18 10:51:22 INFO  MainClass:50 - Login process valid
+2021-04-18 10:51:32 INFO  MainClass:38 - Titles equal, Second product page opened
+2021-04-18 10:51:32 INFO  MainClass:42 - java.util.Random@232a7d73 has chosen by randomly
+2021-04-18 10:51:40 INFO  MainClass:49 - 3 seconds slept
+2021-04-18 10:51:42 INFO  MainClass:25 - Actual price: 22.299,00 TL
+2021-04-18 10:51:42 INFO  MainClass:33 - Prices equal (Basket and Product Pages)
+2021-04-18 10:52:14 INFO  MainClass:82 - Test finished
+2021-04-18 10:52:18 INFO  MainClass:21 - Test has started
+2021-04-18 10:52:24 INFO  MainClass:19 - Test page URL: https://www.gittigidiyor.com
+2021-04-18 10:52:32 INFO  MainClass:28 - Main page has opened
+2021-04-18 10:52:35 INFO  MainClass:49 - 3 seconds slept
+2021-04-18 10:52:39 INFO  MainClass:49 - 1 seconds slept
+2021-04-18 10:52:44 INFO  MainClass:50 - Login process valid
+2021-04-18 10:52:53 INFO  MainClass:38 - Titles equal, Second product page opened
+2021-04-18 10:52:53 INFO  MainClass:42 - java.util.Random@1cdc4c27 has chosen by randomly
+2021-04-18 10:53:00 INFO  MainClass:49 - 3 seconds slept
+2021-04-18 10:53:04 INFO  MainClass:82 - Test finished
+2021-04-18 10:53:51 INFO  MainClass:21 - Test has started
+2021-04-18 10:53:57 INFO  MainClass:19 - Test page URL: https://www.gittigidiyor.com
+2021-04-18 10:54:05 INFO  MainClass:28 - Main page has opened
+2021-04-18 10:54:08 INFO  MainClass:49 - 3 seconds slept
+2021-04-18 10:54:11 INFO  MainClass:49 - 1 seconds slept
+2021-04-18 10:54:15 INFO  MainClass:50 - Login process valid
+2021-04-18 10:54:26 INFO  MainClass:38 - Titles equal, Second product page opened
+2021-04-18 10:54:26 INFO  MainClass:42 - java.util.Random@63dd899 has chosen by randomly
+2021-04-18 10:54:33 INFO  MainClass:49 - 3 seconds slept
+2021-04-18 10:54:35 INFO  MainClass:25 - Actual price: 4.950,00 TL
+2021-04-18 10:54:35 INFO  MainClass:33 - Prices equal (Basket and Product Pages)
+2021-04-18 10:54:37 INFO  MainClass:49 - 2 seconds slept
+2021-04-18 10:54:37 INFO  MainClass:50 - twoProducts:  
+2021-04-18 10:54:37 ERROR MainClass:55 - Two products selecting failure
+2021-04-18 10:54:39 INFO  MainClass:49 - 2 seconds slept
+2021-04-18 10:54:39 INFO  MainClass:71 - Basket is empty
+2021-04-18 10:54:41 INFO  MainClass:82 - Test finished
+2021-04-18 10:56:35 INFO  MainClass:21 - Test has started
+2021-04-18 10:56:40 INFO  MainClass:19 - Test page URL: https://www.gittigidiyor.com
+2021-04-18 10:56:49 INFO  MainClass:28 - Main page has opened
+2021-04-18 10:56:52 INFO  MainClass:49 - 3 seconds slept
+2021-04-18 10:56:56 INFO  MainClass:49 - 1 seconds slept
+2021-04-18 10:56:59 INFO  MainClass:50 - Login process valid
+2021-04-18 10:57:11 INFO  MainClass:38 - Titles equal, Second product page opened
+2021-04-18 10:57:11 INFO  MainClass:42 - java.util.Random@1d3ac898 has chosen by randomly
+2021-04-18 10:57:18 INFO  MainClass:49 - 3 seconds slept
+2021-04-18 10:57:20 INFO  MainClass:25 - Actual price: 6.199,00 TL
+2021-04-18 10:57:20 ERROR MainClass:36 - Prices different (Basket and Product Pages)
+2021-04-18 10:57:22 INFO  MainClass:49 - 2 seconds slept
+2021-04-18 10:57:22 INFO  MainClass:49 - twoProducts:                  1
+                 2
+                 3
+                 4
+                 5
+                 6
+                 7
+                 8
+                 9
+                10+
+      
+2021-04-18 10:57:22 ERROR MainClass:54 - Two products selecting failure
+2021-04-18 10:57:24 INFO  MainClass:49 - 2 seconds slept
+2021-04-18 10:57:24 INFO  MainClass:70 - Basket is empty
+2021-04-18 10:57:26 INFO  MainClass:82 - Test finished
+2021-04-18 10:58:52 INFO  MainClass:21 - Test has started
+2021-04-18 10:58:58 INFO  MainClass:19 - Test page URL: https://www.gittigidiyor.com
+2021-04-18 10:59:05 INFO  MainClass:28 - Main page has opened
+2021-04-18 10:59:08 INFO  MainClass:49 - 3 seconds slept
+2021-04-18 10:59:14 INFO  MainClass:49 - 1 seconds slept
+2021-04-18 10:59:18 INFO  MainClass:50 - Login process valid
+2021-04-18 10:59:28 INFO  MainClass:38 - Titles equal, Second product page opened
+2021-04-18 10:59:28 INFO  MainClass:42 - java.util.Random@1e8ce150 has chosen by randomly
+2021-04-18 10:59:34 INFO  MainClass:49 - 3 seconds slept
+2021-04-18 10:59:36 INFO  MainClass:25 - Actual price: 1.511,90 TL
+2021-04-18 10:59:36 INFO  MainClass:33 - Prices equal (Basket and Product Pages)
+2021-04-18 10:59:38 INFO  MainClass:49 - 2 seconds slept
+2021-04-18 10:59:38 INFO  MainClass:50 - twoProducts: (70, 41)
+2021-04-18 10:59:40 INFO  MainClass:49 - 2 seconds slept
+2021-04-18 10:59:40 INFO  MainClass:74 - Basket is empty
+2021-04-18 10:59:43 INFO  MainClass:82 - Test finished
+2021-04-18 11:07:02 INFO  MainClass:21 - Test has started
+2021-04-18 11:07:17 INFO  MainClass:21 - Test has started
+2021-04-18 11:07:23 INFO  MainClass:19 - Test page URL: https://www.gittigidiyor.com
+2021-04-18 11:07:31 INFO  MainClass:28 - Main page has opened
+2021-04-18 11:07:34 INFO  MainClass:49 - 3 seconds slept
+2021-04-18 11:07:44 INFO  MainClass:49 - 1 seconds slept
+2021-04-18 11:07:47 INFO  MainClass:50 - Login process valid
+2021-04-18 11:07:56 INFO  MainClass:82 - Test finished
+2021-04-18 11:08:04 INFO  MainClass:21 - Test has started
+2021-04-18 11:08:10 INFO  MainClass:19 - Test page URL: https://www.gittigidiyor.com
+2021-04-18 11:08:19 INFO  MainClass:28 - Main page has opened
+2021-04-18 11:08:22 INFO  MainClass:49 - 3 seconds slept
+2021-04-18 11:08:31 INFO  MainClass:82 - Test finished
+2021-04-18 11:08:36 INFO  MainClass:21 - Test has started
+2021-04-18 11:08:42 INFO  MainClass:19 - Test page URL: https://www.gittigidiyor.com
+2021-04-18 11:08:52 INFO  MainClass:28 - Main page has opened
+2021-04-18 11:08:55 INFO  MainClass:49 - 3 seconds slept
+2021-04-18 11:09:00 INFO  MainClass:49 - 1 seconds slept
+2021-04-18 11:09:05 INFO  MainClass:50 - Login process valid
+2021-04-18 11:09:15 INFO  MainClass:38 - Titles equal, Second product page opened
+2021-04-18 11:09:15 INFO  MainClass:42 - java.util.Random@5b202a3a has chosen by randomly
+2021-04-18 11:09:22 INFO  MainClass:49 - 3 seconds slept
+2021-04-18 11:09:24 INFO  MainClass:25 - Actual price: 4.276,00 TL
+2021-04-18 11:09:24 ERROR MainClass:36 - Prices different (Basket and Product Pages)
+2021-04-18 11:09:32 INFO  MainClass:82 - Test finished
+2021-04-18 11:09:43 INFO  MainClass:21 - Test has started
+2021-04-18 11:09:49 INFO  MainClass:19 - Test page URL: https://www.gittigidiyor.com
+2021-04-18 11:09:55 INFO  MainClass:28 - Main page has opened
+2021-04-18 11:09:58 INFO  MainClass:49 - 3 seconds slept
+2021-04-18 11:10:08 INFO  MainClass:49 - 1 seconds slept
+2021-04-18 11:10:13 INFO  MainClass:50 - Login process valid
+2021-04-18 11:10:27 INFO  MainClass:38 - Titles equal, Second product page opened
+2021-04-18 11:10:27 INFO  MainClass:42 - java.util.Random@6e35bc3d has chosen by randomly
+2021-04-18 11:10:40 INFO  MainClass:49 - 3 seconds slept
+2021-04-18 11:10:42 INFO  MainClass:25 - Actual price: 2.447,04 TL
+2021-04-18 11:10:42 INFO  MainClass:33 - Prices equal (Basket and Product Pages)
+2021-04-18 11:10:44 INFO  MainClass:49 - 2 seconds slept
+2021-04-18 11:10:44 INFO  MainClass:50 - twoProducts: 2
+2021-04-18 11:10:46 INFO  MainClass:49 - 2 seconds slept
+2021-04-18 11:10:46 INFO  MainClass:74 - Basket is empty
+2021-04-18 11:10:49 INFO  MainClass:82 - Test finished
+2021-04-18 11:13:23 INFO  MainClass:21 - Test has started
+2021-04-18 11:13:29 INFO  MainClass:19 - Test page URL: https://www.gittigidiyor.com
+2021-04-18 11:13:37 INFO  MainClass:28 - Main page has opened
+2021-04-18 11:13:40 INFO  MainClass:49 - 3 seconds slept
+2021-04-18 11:13:46 INFO  MainClass:49 - 1 seconds slept
+2021-04-18 11:13:50 INFO  MainClass:50 - Login process valid
+2021-04-18 11:14:00 INFO  MainClass:38 - Titles equal, Second product page opened
+2021-04-18 11:14:00 INFO  MainClass:42 - Zeiron RMX60 İ5-3470 16GB 240GB SSD GT730 4GB 27" Oyun Bilgisayarı
+7.950,00 TL
+|
+%37 İNDİRİM
+4.999,00 TL
+Size özel EKSTRA 150,00 TL İndirim
+4.849,00 TL
+Kazananlar Kulübü üyeliği ile
+4.799,04 TL
+Ücretsiz Kargo
+citybilgisayar has chosen by randomly
+2021-04-18 11:14:07 INFO  MainClass:49 - 3 seconds slept
+2021-04-18 11:14:09 INFO  MainClass:25 - Actual price: 4.849,00 TL
+2021-04-18 11:14:09 INFO  MainClass:33 - Prices equal (Basket and Product Pages)
+2021-04-18 11:14:11 INFO  MainClass:49 - 2 seconds slept
+2021-04-18 11:14:11 INFO  MainClass:51 - Two products selected
+2021-04-18 11:14:13 INFO  MainClass:49 - 2 seconds slept
+2021-04-18 11:14:13 INFO  MainClass:70 - Basket is empty
+2021-04-18 11:14:17 INFO  MainClass:82 - Test finished
+2021-04-18 11:17:24 INFO  MainClass:21 - Test has started
+2021-04-18 11:17:33 INFO  MainClass:19 - Test page URL: https://www.gittigidiyor.com
+2021-04-18 11:17:45 INFO  MainClass:28 - Main page has opened
+2021-04-18 11:17:48 INFO  MainClass:49 - 3 seconds slept
+2021-04-18 11:17:51 INFO  MainClass:49 - 1 seconds slept
+2021-04-18 11:17:54 INFO  MainClass:50 - Login process valid
+2021-04-18 11:18:05 INFO  MainClass:38 - Titles equal, Second product page opened
+2021-04-18 11:18:05 INFO  MainClass:42 - 98 has chosen by randomly
+2021-04-18 11:18:12 INFO  MainClass:49 - 3 seconds slept
+2021-04-18 11:18:13 INFO  MainClass:25 - Actual price: 7.499,00 TL
+2021-04-18 11:18:13 INFO  MainClass:33 - Prices equal (Basket and Product Pages)
+2021-04-18 11:18:21 INFO  MainClass:82 - Test finished
+2021-04-18 11:19:37 INFO  MainClass:21 - Test has started
+2021-04-18 11:19:42 INFO  MainClass:19 - Test page URL: https://www.gittigidiyor.com
+2021-04-18 11:19:51 INFO  MainClass:28 - Main page has opened
+2021-04-18 11:19:54 INFO  MainClass:50 - 3 seconds slept
+2021-04-18 11:19:57 INFO  MainClass:50 - 1 seconds slept
+2021-04-18 11:20:01 INFO  MainClass:50 - Login process valid
+2021-04-18 11:20:11 INFO  MainClass:38 - Titles equal, Second product page opened
+2021-04-18 11:20:11 INFO  MainClass:42 - 72 has chosen by randomly
+2021-04-18 11:20:11 INFO  MainClass:43 - Lenovo V530 11BH002BTX01 i7-8700 8GB 1TB+256SSD FDOS Masaüstü Bilgisayar
+7.049,00 TL
+|
+%6 İNDİRİM
+6.615,00 TL
+Size özel EKSTRA 150,00 TL İndirim
+6.465,00 TL
+Kazananlar Kulübü üyeliği ile
+6.415,00 TL
+Ücretsiz - Aynı Gün Kargo
+Çok Başarılı
+Satıcı
+teknoraks- ismi
+2021-04-18 11:20:18 INFO  MainClass:50 - 3 seconds slept
+2021-04-18 11:20:19 INFO  MainClass:25 - Actual price: 6.465,00 TL
+2021-04-18 11:20:19 INFO  MainClass:33 - Prices equal (Basket and Product Pages)
+2021-04-18 11:20:22 INFO  MainClass:50 - 2 seconds slept
+2021-04-18 11:20:22 INFO  MainClass:51 - Two products selected
+2021-04-18 11:20:24 INFO  MainClass:50 - 2 seconds slept
+2021-04-18 11:20:24 INFO  MainClass:70 - Basket is empty
+2021-04-18 11:20:26 INFO  MainClass:82 - Test finished
+2021-04-18 11:23:06 INFO  MainClass:21 - Test has started
+2021-04-18 11:23:12 INFO  MainClass:19 - Test page URL: https://www.gittigidiyor.com
+2021-04-18 11:23:21 INFO  MainClass:28 - Main page has opened
+2021-04-18 11:23:24 INFO  MainClass:50 - 3 seconds slept
+2021-04-18 11:23:28 INFO  MainClass:50 - 1 seconds slept
+2021-04-18 11:23:33 INFO  MainClass:50 - Login process valid
+2021-04-18 11:23:43 INFO  MainClass:38 - Titles equal, Second product page opened
+2021-04-18 11:23:43 INFO  MainClass:43 - i3-4000M 2.40 GHz 4gb Ram 128GB SSD 21.5" Monitör All in One Bilgisayar ismi
+2021-04-18 11:23:50 INFO  MainClass:50 - 3 seconds slept
+2021-04-18 11:23:52 INFO  MainClass:25 - Actual price: 3.191,04 TL
+2021-04-18 11:23:52 INFO  MainClass:33 - Prices equal (Basket and Product Pages)
+2021-04-18 11:23:54 INFO  MainClass:50 - 2 seconds slept
+2021-04-18 11:23:54 INFO  MainClass:51 - Two products selected
+2021-04-18 11:23:56 INFO  MainClass:50 - 2 seconds slept
+2021-04-18 11:23:56 INFO  MainClass:70 - Basket is empty
+2021-04-18 11:23:58 INFO  MainClass:82 - Test finished
+2021-04-18 11:40:04 INFO  MainClass:21 - Test has started
+2021-04-18 11:40:10 INFO  MainClass:19 - Test page URL: https://www.gittigidiyor.com
+2021-04-18 11:40:18 INFO  MainClass:28 - Main page has opened
+2021-04-18 11:40:21 INFO  MainClass:50 - 3 seconds slept
+2021-04-18 11:40:24 INFO  MainClass:50 - 1 seconds slept
+2021-04-18 11:40:28 INFO  MainClass:50 - Login process valid
+2021-04-18 11:40:39 INFO  MainClass:38 - Titles equal, Second product page opened
+2021-04-18 11:40:39 INFO  MainClass:43 - i3-4130 3.40 GHz 4gb Ram 128GB SSD 23.8" Monitör All in One Bilgisayar chosen by randomly
+2021-04-18 11:40:45 INFO  MainClass:50 - 3 seconds slept
+2021-04-18 11:40:46 INFO  MainClass:25 - Actual price: 3.660,00 TL
+2021-04-18 11:40:46 INFO  MainClass:33 - Prices equal (Basket and Product Pages)
+2021-04-18 11:40:49 INFO  MainClass:50 - 2 seconds slept
+2021-04-18 11:40:49 INFO  MainClass:51 - Two products selected
+2021-04-18 11:40:51 INFO  MainClass:50 - 2 seconds slept
+2021-04-18 11:40:51 INFO  MainClass:70 - Basket is empty
+2021-04-18 11:40:53 INFO  MainClass:82 - Test finished
