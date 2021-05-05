@@ -9,6 +9,7 @@ public  class Elements {
     public static By loginMainButton        = By.cssSelector("a[href='https://www.gittigidiyor.com/uye-girisi']");
     public static By userInfo               = By.xpath("//div[@class='gekhq4-4 egoSnI']");
     public static By searchInput            = By.name("k");
+    public static boolean pullRequest       = true;
 
     // LoginPage
     public static By usernameInput          = By.id("L-UserNameField");
